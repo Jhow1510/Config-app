@@ -37,7 +37,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi#jhow.xyz",
+            "host": "93s753x68a71s6c714.speedup.mobi#q533291l4153igj178.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -88,7 +88,7 @@
             "port": 80
         },
         "server": {
-            "host": 557ac1105d259w5i44.speedup.mobi#jhow.xyz",
+            "host": "93s753x68a71s6c714.speedup.mobi#q533291l4153igj178.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -135,11 +135,11 @@
         "mode": "SSH_PROXY",
         "name": "VIVO WS SECURITY",
         "proxy": {
-            "host": "191.252.103.145",
+            "host": "167.114.129.98",
             "port": 8080
         },
         "server": {
-            "host": "191.252.103.145",
+            "host": "167.114.129.98",
             "port": 8080
         },
         "sorter": 1,
@@ -190,7 +190,7 @@
             "port": 80
         },
         "server": {
-            "host": 557ac1105d259w5i44.speedup.mobi#jhow.xyz",
+            "host": "93s753x68a71s6c714.speedup.mobi#q533291l4153igj178.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -241,7 +241,7 @@
             "port": 80
         },
         "server": {
-            "host": "jhow.xyz#557ac1105d259w5i44.speedup.mobi",
+            "host": "telenet.fun",
             "port": 80
         },
         "sorter": 1,
