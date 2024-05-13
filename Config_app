@@ -334,7 +334,7 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/main/escuro.png",
         "id": 67079,
         "mode": "SSH_PROXY",
         "name": "CLARO ARGENTINA",
