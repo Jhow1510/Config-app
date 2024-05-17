@@ -538,7 +538,7 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/main/images.png",
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/main/personal.png",
         "id": 67083,
         "mode": "SSH_PROXY",
         "name": "PERSONAL ARGENTINA",
