@@ -610,5 +610,56 @@
         "updated_at": "2023-08-28 16:06:06",
         "url_check_user": "http://186.233.118.151:5000",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "PATCH / HTTP/1.1[lf]Host:[app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#PATCH / HTTP/1.1[lf]Host:[app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "websocket FRONT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/main/escuro.png",
+        "id": 67085,
+        "mode": "SSH_PROXY",
+        "name": "CLARO PARAGUAY 2",
+        "proxy": {
+            "host": "191.252.103.145#asistencia.claro.com.py#108.139.166.2#108.139.166.24#108.139.166.85#108.139.166.54#dex.descomplica.com.br#3.163.10.81#3.163.10.29#3.163.10.100#io.descomplica.com.br#3.162.247.38#3.162.247.45#3.162.247.104#metadatadb.lab.smartcontent.clarobrasil.mobi#13.33.123.7#13.33.123.57#13.33.123.87#13.33.123.107#www.claro.com.py#www.claro.com.ar#13.227.126.54#13.227.126.38#13.227.126.40#13.227.126.75#script.hotjar.com#108.139.113.13#108.139.113.45#108.139.113.76#108.139.113.28#13.227.126.39#13.227.126.40#13.227.126.91#99.84.31.114#99.84.31.97#99.84.31.8#99.84.31.80#dex.descomplica.com.br#io.descomplica.com.br#3.163.10.29#3.163.10.81#3.163.10.19#3.163.10.100#conversions.appsflyer.com#3.163.10.112#3.163.10.104#3.163.10.54#3.163.10.121#13.227.97.69#13.227.97.28#13.227.97.116#13.227.97.49#launches.appsflyer.com#13.33.123.128#13.33.123.29#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#13.227.126.58#18.67.129.17#c6bank.onelink.me#99.84.31.110#104.18.99.70#104.18.28.182#104.18.33.113#104.19.239.25#104.19.240.93#104.19.241.93#104.17.64.225#172.67.188.168",
+            "port": 80
+        },
+        "server": {
+            "host": "jhow.xyz#jhow.online#191.252.103.145#557ac1105d259w5i44.speedup.mobi",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     }
 ]
