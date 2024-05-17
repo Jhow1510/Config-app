@@ -630,7 +630,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PATCH / HTTP/1.1[lf]Host:[app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#PATCH / HTTP/1.1[lf]Host:[app_host1][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "payload": "PATCH / HTTP/1.1[lf]Host:[app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#PATCH / HTTP/1.1[lf]Host:[app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -649,8 +649,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi",
-            "host1": "jhow.online",
+            "host": "557ac1105d259w5i44.speedup.mobi#jhow.online",
             "port": 80
         },
         "sorter": 1,
