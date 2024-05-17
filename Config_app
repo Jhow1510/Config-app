@@ -559,5 +559,56 @@
         "updated_at": "2023-08-28 16:06:06",
         "url_check_user": "http://186.233.118.151:5000",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1\r\nHost:[app_host]\r\nConnection: Upgrade\r\nUser-Agent: Mozilla/5.0 (Linux; Android 11; moto g(20) Build/RTA31.68-34-1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36\r\nUpgrade: websocket[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "websocket FRONT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/main/escuro.png",
+        "id": 67084,
+        "mode": "SSH_PROXY",
+        "name": "CLARO PARAGUAY",
+        "proxy": {
+            "host": "191.252.103.145",
+            "port": 80
+        },
+        "server": {
+            "host": "jhow.xyz#jhow.online",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     }
 ]
