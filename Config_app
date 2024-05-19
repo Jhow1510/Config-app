@@ -37,7 +37,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi#g19v13111zr4567j16.speedup.mobi#jhow.online#191.252.103.145",
+            "host": "557ac1105d259w5i44.speedup.mobi#jhow.xyz",
             "port": 80
         },
         "sorter": 1,
@@ -88,7 +88,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi#g19v13111zr4567j16.speedup.mobi#jhow.online#191.252.103.145",
+            "host": "557ac1105d259w5i44.speedup.mobi#jhow.xyz#jhow.online#191.252.103.145",
             "port": 80
         },
         "sorter": 1,
@@ -136,11 +136,11 @@
         "name": "VIVO WS SECURITY",
         "proxy": {
             "host": "191.252.103.145",
-            "port": 8080
+            "port": 80
         },
         "server": {
-            "host": "191.252.103.145#jhow.online#jhow.xyz",
-            "port": 8080
+            "host": "557ac1105d259w5i44.speedup.mobi#191.252.103.145#jhow.online#jhow.xyz",
+            "port": 80
         },
         "sorter": 1,
         "status": "ACTIVE",
@@ -190,7 +190,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi#g19v13111zr4567j16.speedup.mobi#jhow.online",
+            "host": "557ac1105d259w5i44.speedup.mobi#jhow.xyz",
             "port": 80
         },
         "sorter": 1,
