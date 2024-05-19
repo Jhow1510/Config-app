@@ -732,7 +732,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#HEAD /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]HEAD / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]#PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#HEAD /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]#HEAD / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
