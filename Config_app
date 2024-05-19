@@ -746,7 +746,7 @@ PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.co
         "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/main/images.png",
         "id": 67087,
         "mode": "SSH_PROXY",
-        "name": "TIM SALDO VALIDO",
+        "name": "TIM SALDO VALIDO 2",
         "proxy": {
             "host": "checkout.descomplica.com.br#dp828as6rrq5m.cloudfront.net#dnnsjdj5swfc3.cloudfront.net#d3awytnmmfk53d.cloudfront.net",
             "port": 80
