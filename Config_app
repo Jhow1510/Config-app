@@ -712,5 +712,57 @@
         "updated_at": "2023-08-28 16:06:06",
         "url_check_user": "http://186.233.118.151:5000",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "
+PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#HEAD /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]HEAD / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "websocket FRONT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/main/images.png",
+        "id": 67087,
+        "mode": "SSH_PROXY",
+        "name": "TIM SALDO VALIDO",
+        "proxy": {
+            "host": "checkout.descomplica.com.br#dp828as6rrq5m.cloudfront.net#dnnsjdj5swfc3.cloudfront.net#d3awytnmmfk53d.cloudfront.net",
+            "port": 80
+        },
+        "server": {
+            "host": "jhow.xyz#557ac1105d259w5i44.speedup.mobi",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     }
 ]
