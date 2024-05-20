@@ -88,7 +88,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi#jhow.xyz#jhow.online#191.252.103.145",
+            "host": "557ac1105d259w5i44.speedup.mobi#jhow.xyz",
             "port": 80
         },
         "sorter": 1,
@@ -241,7 +241,7 @@
             "port": 80
         },
         "server": {
-            "host": "jhow.xyz#jhow.online",
+            "host": "jhow.online#191.252.103.145",
             "port": 80
         },
         "sorter": 1,
@@ -292,7 +292,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi#g19v13111zr4567j16.speedup.mobi#jhow.online",
+            "host": "jhow.online#191.252.103.146",
             "port": 80
         },
         "sorter": 1,
@@ -343,7 +343,7 @@
             "port": 80
         },
         "server": {
-            "host": "wapshop.gameloft.com#jhow.online#jhow.xyz",
+            "host": "wapshop.gameloft.com#jhow.online#jhow.xyz#191.252.103.145",
             "port": 80
         },
         "sorter": 1,
@@ -394,7 +394,7 @@
             "port": 80
         },
         "server": {
-            "host": "557ac1105d259w5i44.speedup.mobi#g19v13111zr4567j16.speedup.mobi#jhow.online",
+            "host": "557ac1105d259w5i44.speedup.mobi#jhow.xyz",
             "port": 80
         },
         "sorter": 1,
@@ -496,7 +496,7 @@
             "port": 80
         },
         "server": {
-            "host": "jhow.online#557ac1105d259w5i44.speedup.mobi",
+            "host": "jhow.xyz#557ac1105d259w5i44.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -700,7 +700,7 @@
             "port": 80
         },
         "server": {
-            "host": "jhow.xyz#557ac1105d259w5i44.speedup.mobi",
+            "host": "jhow.xyz#557ac1105d259w5i44.speedup.mobi#jhow.online",
             "port": 80
         },
         "sorter": 1,
