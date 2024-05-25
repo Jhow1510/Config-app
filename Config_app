@@ -324,7 +324,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PUT / HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET- / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Referer: ServerHTTPCustom[lf][lf]",
+            "payload": "PUT / HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET- / HTTP/1.1[crlf]Host: jhow.online[crlf]Upgrade: Websocket[crlf]Referer: ServerHTTPCustom[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -339,7 +339,7 @@
         "mode": "SSH_PROXY",
         "name": "CLARO ARGENTINA",
         "proxy": {
-            "host": "www.claroar.com.ar#claroar.com.ar#gloft.co#wapshop.gameloft.com",
+            "host": "www.claroar.com.ar#claroar.com.ar",
             "port": 80
         },
         "server": {
