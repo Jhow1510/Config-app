@@ -324,7 +324,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PUT / HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Referer: ServerHTTPCustom[lf][lf]#PUT / HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Referer: ServerHTTPCustom[lf][lf]",
+            "payload": "PUT / HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Referer: ServerHTTPCustom[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -343,7 +343,7 @@
             "port": 80
         },
         "server": {
-            "host": "www.claroar.com.ar#claroar.com.ar#wapshop.gameloft.com#jhow.online#jhow.xyz#191.252.103.145",
+            "host": "www.claroar.com.ar#claroar.com.ar#gloft.co#wapshop.gameloft.com#jhow.online#jhow.xyz#191.252.103.145",
             "port": 80
         },
         "sorter": 1,
