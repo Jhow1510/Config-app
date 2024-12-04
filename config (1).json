@@ -1,0 +1,116 @@
+[
+    {
+        "name": "VIVO SSL 01",
+        "description": "EXPIRADO | VÁLIDO | PLANOS | PROMOÇÃO",
+        "mode": "SSL_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "sni": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.tl0x.573357.xyz",
+            "payload": "GET /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/NFmNYX3/file.png",
+        "proxy": {
+            "host": "104.16.51.111#104.16.53.111#gedoc.vivo.com.br#recarga.vivo.com.br#162.159.135.63#162.159.136.63#gedoc.vivo.com.br#lojaempresas.vivo.com.br#www.vivoemdia.vivo.com.br#cname.vivo.com.br#web.vivo.com.br#atendimento.lojadointer.com.br#atendimento.magazineluiza.com.br#mycannabisconversation.com.br#compre.vivo.com.br#snow.vivo.com.br#backoffice-equipamentos01.vivo.com.br#api.digital.cname.vivo.com.br#api.digital.cname.vivo.com.br.cdn.cloudflare.net#api.digital.vivo.com.br#app.vivo.com.br#autenticaint.cname.vivo.com.br#autenticaint.cname.vivo.com.br.#autenticaint.cname.vivo.com.br.cdn.cloudflare.net#autenticaint.vivo.com.br#auth.vivo.com.br#author.lojaempresas.vivo.com.br#celular.cname.vivo.com.br#celular.cname.vivo.com.br.cdn.cloudflare.net#celular.vivo.com.br#cname.vivo.com.br#darklaunch-mvfront.cname.vivo.com.br#easy.cname.vivo.com.br#easy.vivo.com.br#ge.lucasnet.pt#gedoc.cname.vivo.com.br#gedoc.cname.vivo.com.br.cdn.cloudflare.net#gedoc.vivo.com.br#infinito.redirectme.net#lojaempresas.vivo.com.br#lojaonline.vivo.com.br#meuvivo.cname.vivo.com.br#meuvivo.vivo.com.br#mve.vivo.com.br#mvfront.vivo.com.br#planos.vivo.com.br",
+            "port": 443
+        },
+        "server": {
+            "host": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.tl0x.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🟣OPERADORA VIVO🟣",
+            "color": "#00000080",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "vivo ssl 2",
+        "description": "Saldo expirado, Válido, Planos, Promoção",
+        "mode": "SSL_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 2,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "sni": ".familytlcomfirewallfalconputingbr.573357.xyz#firewallfalcon.tl0x.573357.xyz",
+            "payload": "GET /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#HEAD /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#PATCH /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#OPTIONS /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/NFmNYX3/file.png",
+        "proxy": {
+            "host": "atendimento.lojadointer.com.br#atendimento.magazineluiza.com.br#mycannabisconversation.com.br#compre.vivo.com.br#snow.vivo.com.br#backoffice-equipamentos01.vivo.com.br#104.18.33.113#104.18.28.182#104.19.239.25#104.19.241.93#104.16.239.166#172.64.154.143#216.198.53.1#104.17.64.225#vivo.com.br#teatrovivo.com.br#v.vivo#gedoc.vivo.com.br#recarga.vivo.com.br#162.159.136.63#gedoc.vivo.com.br#lojaempresas.vivo.com.br#www.vivoemdia.vivo.com.br#cname.vivo.com.br#web.vivo.com.br#gedoc.vivo.com.br#recarga.vivo.com.br#162.159.135.63#162.159.136.63",
+            "port": 443
+        },
+        "server": {
+            "host": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.tl0x.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🟣OPERADORA VIVO🟣",
+            "color": "#00000080",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "Vivo ssl 3",
+        "description": "Saldo expirado, Válido, Planos, Promoção",
+        "mode": "SSL_PROXY",
+        "tls_version": "TLSv1.2",
+        "sorter": 3,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "sni": ".familytlcomfirewallfalconputingbr.573357.xyz#firewallfalcon.tl0x.573357.xyz",
+            "payload": "GET /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#HEAD /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#PATCH /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#OPTIONS /app65 HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/NFmNYX3/file.png",
+        "proxy": {
+            "host": "104.16.239.166#104.18.33.113#104.17.64.225#104.18.99.70#141.193.213.10#104.18.27.160#104.18.28.181#104.16.237.16#104.19.239.25#172.67.74.152#104.19.241.93#104.18.28.182#substack.com#empresas.planostim.com.br#104.18.19.37#104.18.18.37#timlive.planostim.com.br#172.64.153.235#104.18.34.21#104.19.240.25#104.18.29.182#104.19.242.25#104.18.26.160#104.16.241.93#141.193.213.20#141.193.213.21#www.beha-amprobe.com#mtls.sandbox.c6bank.com.br#172.67.1.225#tinyurl.com#104.16.18.94#unpkg.com#104.19.240.93#172.64.154.143#104.16.51.100#104.19.239.25#api.digital.cname.vivo.com.br#api.digital.vivo.com.br#autenticaint.cname.vivo.com.br#autenticaint.vivo.com.br#auth.vivo.com.br#author.lojaempresas.vivo.com.br#celular.cname.vivo.com.br#celular.vivo.com.br#darklaunch-mvfront.cname.vivo.com.br#easy.cname.vivo.com.br#easy.vivo.com.br#gedoc.cname.vivo.com.br#gedoc.vivo.com.br#infinito.redirectme.net#lojaempresas.vivo.com.br#lojaonline.vivo.com.br#meuvivo.cname.vivo.com.br#meuvivo.vivo.com.br#mve.vivo.com.br#mvfront.vivo.com.br#planos.vivo.com.br#recarga-api.vivo.com.br#recarga.cname.vivo.com.br#recarga.vivo.com.br#smartvivo.vivo.com.br#teatrovivo.cname.vivo.com.br#teatrovivo.com.br#turbo.redirectme.net#v.vivo#vacaria.em7xr.opdns.net#vivo.com.br#vivoemdia.cname.vivo.com.br#wvivoconectadosempre.com.br#wvivoemdia.vivo.com.br",
+            "port": 443
+        },
+        "server": {
+            "host": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.tl0x.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "https://netgenius.gestorssh.com.br/checkuser/dtunnel.php?user=",
+        "category": {
+            "name": "NETGENIUS - VIVO PRÉ",
+            "color": "#A729FFFF",
+            "sorter": 1
+        }
+    }
+]
