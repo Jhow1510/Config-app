@@ -1,0 +1,254 @@
+[
+    {
+        "name": "VIVO ROTATE TODOS DDS",
+        "description": "TODOS DDS",
+        "mode": "SSH_PROXY",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "payload": "GET wss://firewallfalcon.tl0x.573357.xyz/cdn-cgi/trace/ HTTP/1.1[crlf]Host: vivo.com.br[crlf][crlf][split][crlf][crlf]CF-RAY /seuid HTTP/1.1[crlf]Host: firewallfalcon.tl0x.573357.xyz[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#GET wss://firewallfalcon.familytlcomputingbr.573357.xyz/cdn-cgi/trace/ HTTP/1.1[crlf]Host: vivo.com.br[crlf][crlf][split][crlf][crlf]CF-RAY /seuid HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]#OPTIONS;DELETE;GET;PUT;POST;GET] /SEUID HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf]Nildo[crlf][crlf]#GET /SEUID  HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]#PUT /SEUID HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]X-Status-Id: tunnel[crlf]Backend: Nildo[crlf]Upgrade: Websocket[crlf][crlf]#GET /SEUID HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: sock-ACL[crlf]]Expect: -Harder-reverse[lf]Referer: Nildo[lf]User-Agent: Nildo[lf]Upgrade: websocket[crlf]Expect: 100-continue[lf][lf]"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.postimg.cc/634hgPMp/ic-tim.png",
+        "proxy": {
+            "host": "auth.vivo.com.br#gedoc.vivo.com.br#162.159.135.63#162.159.136.63",
+            "port": 80
+        },
+        "server": {
+            "host": "firewallfalcon.tl0x.573357.xyz#firewallfalcon.familytlcomputingbr.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🟣OPERADORA VIVO🟣",
+            "color": "#00000080",
+            "sorter": 1
+        }
+    },
+    {
+        "name": "TIM TODOS DDS CLOUDFRONT",
+        "description": "TODOS DDS",
+        "mode": "SSH_PROXY",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;timpospromo.com.br;contratecorp.tim.com.br][crlf] [crlf]GET /SEUID HTTP/1.1[lf]Host: [rotate=cdn31.cdntlcomputingbr.shop;cdn32.cdntlcomputingbr.shop;cdn33.cdntlcomputingbr.shop;cdn34.cdntlcomputingbr.shop;cdn35.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop;cdn37.cdntlcomputingbr.shop;cdn38.cdntlcomputingbr.shop;cdn39.cdntlcomputingbr.shop;cdn40.cdntlcomputingbr.shop;cdn41.cdntlcomputingbr.shop][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]\n"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.postimg.cc/634hgPMp/ic-tim.png",
+        "proxy": {
+            "host": "13.227.126.91#13.227.126.39#99.84.31.114#65.8.178.74#65.8.178.65#65.8.178.51#99.84.31.97#99.84.31.8#99.84.31.80#13.227.126.40#108.139.113.107#108.139.113.60#108.139.113.110#108.139.113.91#18.64.174.128#api.cloudmi.datami.com#99.84.31.114#65.8.178.74#65.8.178.65#65.8.178.51#99.84.31.97#99.84.31.8#99.84.31.80#13.227.126.40#108.139.113.107#108.139.113.60#108.139.113.110#108.139.113.91#18.64.174.128#99.84.31.8#99.84.31.80#99.84.31.97#99.84.31.114#108.158.194.21#108.158.194.111#108.158.194.97#108.158.194.95#cdn-segment.dzcdn.net#13.33.123.128#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#18.67.129.17#99.84.31.110#99.84.31.38#99.84.31.63#99.84.31.9#13.248.245.213#54.231.225.121#65.9.95.105#18.66.147.27#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#99.84.37.44#13.226.22.87#108.158.172.101#108.158.172.10#99.84.37.44#13.226.22.87#13.227.126.39#13.227.126.91#13.227.126.39#13.227.126.40#13.227.126.91#13.227.97.69#13.227.97.28$13.227.97.116#13.227.97.49#13.33.123.128#13.33.123.29#108.139.113.89#99.84.31.80#99.84.31.8",
+            "port": 80
+        },
+        "server": {
+            "host": "cdn31.cdntlcomputingbr.shop#cdn32.cdntlcomputingbr.shop#cdn33.cdntlcomputingbr.shop#cdn34.cdntlcomputingbr.shop#cdn35.cdntlcomputingbr.shop#cdn36.cdntlcomputingbr.shop#cdn37.cdntlcomputingbr.shop#cdn38.cdntlcomputingbr.shop#cdn39.cdntlcomputingbr.shop#cdn40.cdntlcomputingbr.shop#cdn41.cdntlcomputingbr.shop",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🔵OPERADORA TIM🔵",
+            "color": "#00000080",
+            "sorter": 12
+        }
+    },
+    {
+        "name": "TIM TODOS DDS CLOUDFRONT 02",
+        "description": "TODOS DDS",
+        "mode": "SSH_PROXY",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "payload": "[split][lf]PATCH /SEUID HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[lf] [lf]GET /SEUID HTTP/1.1[lf]Host: [host] [lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.postimg.cc/634hgPMp/ic-tim.png",
+        "proxy": {
+            "host": "13.227.126.91#13.227.126.39#99.84.31.114#65.8.178.74#65.8.178.65#65.8.178.51#99.84.31.97#99.84.31.8#99.84.31.80#13.227.126.40#108.139.113.107#108.139.113.60#108.139.113.110#108.139.113.91#18.64.174.128#api.cloudmi.datami.com#99.84.31.114#65.8.178.74#65.8.178.65#65.8.178.51#99.84.31.97#99.84.31.8#99.84.31.80#13.227.126.40#108.139.113.107#108.139.113.60#108.139.113.110#108.139.113.91#18.64.174.128#99.84.31.8#99.84.31.80#99.84.31.97#99.84.31.114#108.158.194.21#108.158.194.111#108.158.194.97#108.158.194.95#cdn-segment.dzcdn.net#13.33.123.128#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#18.67.129.17#99.84.31.110#99.84.31.38#99.84.31.63#99.84.31.9#13.248.245.213#54.231.225.121#65.9.95.105#18.66.147.27#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#99.84.37.44#13.226.22.87#108.158.172.101#108.158.172.10#99.84.37.44#13.226.22.87#13.227.126.39#13.227.126.91#13.227.126.39#13.227.126.40#13.227.126.91#13.227.97.69#13.227.97.28$13.227.97.116#13.227.97.49#13.33.123.128#13.33.123.29#108.139.113.89#99.84.31.80#99.84.31.8",
+            "port": 80
+        },
+        "server": {
+            "host": "cdn31.cdntlcomputingbr.shop#cdn32.cdntlcomputingbr.shop#cdn33.cdntlcomputingbr.shop#cdn34.cdntlcomputingbr.shop#cdn35.cdntlcomputingbr.shop#cdn36.cdntlcomputingbr.shop#cdn37.cdntlcomputingbr.shop#cdn38.cdntlcomputingbr.shop#cdn39.cdntlcomputingbr.shop#cdn40.cdntlcomputingbr.shop#cdn41.cdntlcomputingbr.shop",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🔵OPERADORA TIM🔵",
+            "color": "#00000080",
+            "sorter": 12
+        }
+    },
+    {
+        "name": "TIM DDS DATAMI",
+        "description": "TESTEM DDS",
+        "mode": "SSH_PROXY",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "payload": "GET /SEUID HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]ACL /SEUID HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf][lf]Upgrade: Websocket[crlf][crlf]#GET /SEUID HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET /SEUID HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.canaldotl.573357.xyz][crlf][lf]Upgrade: Websocket[crlf][crlf]"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.postimg.cc/634hgPMp/ic-tim.png",
+        "proxy": {
+            "host": "analytics.datami.com#developer.datami.com#dra-api.cloudmi.datami.com#global-mmsportal.cloudmi.datami.com#global#portal.cloudmi.datami.com#len.cloudmi.datami.com#let.cloudmi.datami.com#www.datami.com#vpn.cloudmi.datami.com",
+            "port": 80
+        },
+        "server": {
+            "host": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.canaldotl.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🔵OPERADORA TIM🔵",
+            "color": "#00000080",
+            "sorter": 12
+        }
+    },
+    {
+        "name": "TIM CLOUDFLARE",
+        "description": "TESTEM DDS",
+        "mode": "SSH_PROXY",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: seu domínio [crlf]X-Status-Id: tunnel[lf]Upgrade: Websocket[crlf][crlf]\n"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.postimg.cc/634hgPMp/ic-tim.png",
+        "proxy": {
+            "host": "stage.timofertas.com#c6bank.nextos.com#timofertas.com.cdn.cloudflare.net",
+            "port": 80
+        },
+        "server": {
+            "host": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.canaldotl.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🔵OPERADORA TIM🔵",
+            "color": "#00000080",
+            "sorter": 12
+        }
+    },
+    {
+        "name": "TIM CLOUDFLARE 02",
+        "description": "TESTEM DDS",
+        "mode": "SSH_PROXY",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "payload": "GET /-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: SEUCLOUDFLARE[crlf]Upgrade: Websocket[crlf][crlf]"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.postimg.cc/634hgPMp/ic-tim.png",
+        "proxy": {
+            "host": "104.18.5.18:80#stage.timofertas.com#c6bank.nextos.com#timofertas.com.cdn.cloudflare.net",
+            "port": 80
+        },
+        "server": {
+            "host": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.canaldotl.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🔵OPERADORA TIM🔵",
+            "color": "#00000080",
+            "sorter": 12
+        }
+    },
+    {
+        "name": "TIM CLOUDFLARE 03",
+        "description": "TESTEM DDS",
+        "mode": "SSH_PROXY",
+        "sorter": 1,
+        "status": "INACTIVE",
+        "auth": {
+            "username": "",
+            "password": ""
+        },
+        "config_payload": {
+            "payload": "HEAD / HTTP/1.1[crlf]Host: [rotate=vs.timrecompensas.com.br;portal.timrecompensas.com.br;revive.timrecompensas.com.br][crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]\n"
+        },
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.postimg.cc/634hgPMp/ic-tim.png",
+        "proxy": {
+            "host": "revive.timrecompensas.com.br",
+            "port": 80
+        },
+        "server": {
+            "host": "firewallfalcon.familytlcomputingbr.573357.xyz#firewallfalcon.canaldotl.573357.xyz",
+            "port": 80
+        },
+        "udp_ports": [
+            7300
+        ],
+        "url_check_user": "",
+        "category": {
+            "name": "🔵OPERADORA TIM🔵",
+            "color": "#00000080",
+            "sorter": 12
+        }
+    }
+]
