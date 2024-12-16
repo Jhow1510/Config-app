@@ -28,7 +28,7 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https:\/\/github.com\/Jhow1510\/Config-app\/blob\/b2ebda5a9aa2386e1fa353a1f1b9a50bc76fed46\/vivo.png",
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/717bf2e70b0d2e9762e56f6e597779197e335c8e/vivo.png",
         "id": 67073,
         "mode": "SSH_PROXY",
         "name": "OPERADORA VIVO",
