@@ -1,5 +1,9 @@
 [
     {
+        "categoria": {
+        "color": "#0eb51f",
+        "created_at": "2023-07-24 16:38:13",
+        "id": 5467,
         "name": "VIVO DDS",
         "description": "EXPIRADO | VÁLIDO",
         "mode": "SSH_PROXY",
