@@ -570,6 +570,57 @@
             "color": "#0eb51f",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
+            "name": "OPERADORA VIVO",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=UPDATE;ACL;HEAD;PUT;GET;CONNECT;PATCH;DELETE] wss://[rotate=stage.timofertas.com;timofertas.com;apf.maisvantagenstim.com.br]/cdn-cgi/trace/  HTTP/1.1[lf]HTTP/1.1[crlf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.cname.vivo.com.br.cdn.cloudflare.net;api.digital.vivo.com.br;app.vivo.com.br;autenticaint.cname.vivo.com.br][crlf][crlf][split][crlf][crlf]CF-RAY- /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]@JhowTech[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "TESTEM",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67084,
+        "mode": "SSH_PROXY",
+        "name": "VIVO 7",
+        "proxy": {
+            "host": "188.114.99.229#188.114.98.229#104.26.12.205#104.26.13.205#172.67.74.152#104.16.239.166#104.17.64.225#104.18.33.113#104.26.5.32#172.67.74.152#theimfmethod.com#lexiruffell.com#store.vivo.com.br#104.16.53.111#104.18.6.80#104.18.7.80#auth.vivo.com.br#gedoc.vivo.com.br#162.159.135.63#162.159.136.63#stage.timofertas.com#vs.timrecompensas.com.br#apf.maisvantagenstim.com.br#timofertas.com",
+            "port": 80
+        },
+        "server": {
+            "host":"firewallfalcon.familytlcomputingbr.573357.xyz",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "http://51.222.150.105:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
             "name": "CONEXÃO UNIVERSAL",
             "sorter": 3,
             "status": "ACTIVE",
@@ -579,7 +630,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "",
+            "payload": "OPTIONS /wil HTTP/1.1[crlf]Host: www.claromusica.com[crlf][crlf][split]GET /wil HTTP/1.1[crlf]Host: d1b3hbxfdnndsx.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -589,16 +640,16 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
-        "id": 67084,
-        "mode": "SSH_DIRECT",
-        "name": "TIM",
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/escuro.png",
+        "id": 67085,
+        "mode": "SSH_PROXY",
+        "name": "CLARO ARGENTINA",
         "proxy": {
-            "host": "",
+            "host": "www.claro.com.ar#www.claro.com.py",
             "port": 80
         },
         "server": {
-            "host":"",
+            "host":"www.claro.com.ar#www.claro.com.py",
             "port": 80
         },
         "sorter": 1,
