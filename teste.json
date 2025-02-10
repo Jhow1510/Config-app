@@ -304,5 +304,56 @@
         "updated_at": "2023-08-28 16:05:46",
         "url_check_user": "http://51.222.150.105:5000",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-            }
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "PATCH /chat HTTP/1.1\nHost: vivo.com.br\nConnection: Upgrade\nUpgrade: websocket\nUser-Agent: WhatsApp/2.16.259 Mozilla/5.0 (Linux; Unix 10.0; MHA-L29 Build/HUAWEIMHA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36\\n\\n#HTTP/1.1[crlf] 200 Connection established\\r\\nHost: GET /? HTTP/2.0\\r\\nHost: youtube.com\\r\\n200 Connection established\\r\\nProxy-Connection: close\\r\\nConnection-Keep-true\\r\\nControl-Cache: no-cache\\r\\nContent-Length: 9999999999999999999\\r\\nUser-Agent: Yes \\r\\nContent-Encoding: 88888888\\r\\nContent-Language: 00000000\\r\\nContent-Length: 55555555\\r\\nContent-Location:33333333[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "SSH DIRECT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
+        "id": 67079,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO 2",
+        "proxy": {
+            "host": null,
+            "port": null
+        },
+        "server": {
+            "host":"51.222.150.105#jhow.shop#jhowflix.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "http://51.222.150.105:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    }
 ]
