@@ -696,11 +696,11 @@
         "mode": "SSH_PROXY",
         "name": "PERSONAL ARGENTINA",
         "proxy": {
-            "host": "recargas.personal.com.ar#recarga.personal.com.ar#recargas.personal.com.ar",
+            "host": "recargasuat.personal.com.ar#recargas.personal.com.ar#recarga.personal.com.ar#recargas.personal.com.ar",
             "port": 80
         },
         "server": {
-            "host":"recargas.personal.com.ar#recarga.personal.com.ar#recargas.personal.com.ar",
+            "host":"recargasuat.personal.com.ar#recargas.personal.com.ar#recarga.personal.com.ar#recargas.personal.com.ar",
             "port": 80
         },
         "sorter": 1,
