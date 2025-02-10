@@ -28,16 +28,16 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://i.ibb.co/7k7cDd3/DTca77dy2a.png",
+        "icon": "https://github.com/Jhow1510/Config-app/blob/main/vivo.png",
         "id": 67073,
         "mode": "SSH_PROXY",
-        "name": "UNIVERSAL",
+        "name": "TIM",
         "proxy": {
-            "host": "bounce.mail.planos.tim.com.br#65.8.178.65#65.8.178.74#65.8.178.14#65.8.178.51#13.227.126.91#99.84.31.80",
+            "host": "bounce.mail.planos.tim.com.br",
             "port": 80
         },
         "server": {
-            "host":"cdn34.cdntlcomputingbr.shop#cdn36.cdntlcomputingbr.shop#cdn37.cdntlcomputingbr.shop#cdn38.cdntlcomputingbr.shop#cdn39.cdntlcomputingbr.shop#cdn40.cdntlcomputingbr.shop#cdn41.cdntlcomputingbr.shop",
+            "host":"d1b3hbxfdnndsx.cloudfront.net",
             "port": 80
         },
         "sorter": 1,
