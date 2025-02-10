@@ -222,7 +222,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET / HTTP/1.1[lf]Host: [rotate=oportunidades.tim.com.br;m.colaboradoresgalaxys22.tim.com.br][lf] [lf]GET / HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@JhowTech[lf][lf]",
+            "payload": "GET / HTTP/1.1[lf]Host: [rotate=oportunidades.tim.com.br;m.colaboradoresgalaxys22.tim.com.br][lf] [lf]GET /wil HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@JhowTech[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
