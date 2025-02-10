@@ -18,7 +18,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET / HTTP/1.1[crlf]Host: lojaonline.tim.com.br[crlf] [crlf]GET /wil HTTP/1.1[lf]Host: [rotate=cdn34.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop;cdn37.cdntlcomputingbr.shop;cdn38.cdntlcomputingbr.shop;cdn39.cdntlcomputingbr.shop;cdn40.cdntlcomputingbr.shop;cdn41.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /wil HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: [rotate=cdn34.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop;cdn37.cdntlcomputingbr.shop;cdn38.cdntlcomputingbr.shop;cdn39.cdntlcomputingbr.shop;cdn40.cdntlcomputingbr.shop;cdn41.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "payload": "GET /wil HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -29,7 +29,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/7k7cDd3/DTca77dy2a.png",
-        "id": 67073,
+        "id": 01,
         "mode": "SSH_PROXY",
         "name": "UNIVERSAL",
         "proxy": {
