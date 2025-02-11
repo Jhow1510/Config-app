@@ -645,11 +645,11 @@
         "mode": "SSH_PROXY",
         "name": "CLARO ARGENTINA",
         "proxy": {
-            "host": "www.claro.com.ar#www.claro.com.py",
+            "host": "www.claro.com.ar#m-miclaro.claro.com.py#asistencia.claro.com.ar#www.claro.com.py",
             "port": 80
         },
         "server": {
-            "host":"www.claro.com.ar#www.claro.com.py",
+            "host":"www.claro.com.ar#m-miclaro.claro.com.py#asistencia.claro.com.ar#www.claro.com.py",
             "port": 80
         },
         "sorter": 1,
