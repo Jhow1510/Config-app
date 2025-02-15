@@ -1,0 +1,767 @@
+[
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=GET;POST;PUT;DELETE;OPTIONS;CONNECT] /wil HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: d38me46xgxkxpj.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket cloudFront",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
+        "id": 67073,
+        "mode": "SSH_PROXY",
+        "name": "TIM NOVA",
+        "proxy": {
+            "host": "help.cloudcovermusic.com#ecommerceupdate.com.br#kore.ai#checkout.timfibrainternet.com.br#aws.amazon.com#portais.ehtl.com.br#iret.media#www.vivo.com#styleguide.dynatrace.com#www.demo-staging.live.dynatrace.com#aws.amazon.com#kore.ai#checkout.timfibrainternet.com.br#www.mercadolibre.com.co",
+            "port": 80
+        },
+        "server": {
+            "host":"d38me46xgxkxpj.cloudfront.net",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET /wil HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: d38me46xgxkxpj.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
+        "id": 67074,
+        "mode": "SSH_PROXY",
+        "name": "TIM",
+        "proxy": {
+            "host": "bounce.mail.planos.tim.com.br",
+            "port": 80
+        },
+        "server": {
+            "host":"d38me46xgxkxpj.cloudfront.net",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "TIM CLOUDFRONT ROTATE",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "OPTIONS / HTTP/1.1[crlf]Host: tim.com.br[crlf] [crlf]GET /wil HTTP/1.1[lf]Host: [host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /wil HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: [host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
+        "id": 67075,
+        "mode": "SSH_PROXY",
+        "name": "TIM 2",
+        "proxy": {
+            "host": "bounce.mail.planos.tim.com.br#www.classificadostimtim.com.br",
+            "port": 80
+        },
+        "server": {
+            "host":"d38me46xgxkxpj.cloudfront.net#d2vz2y8gkdyn4.cloudfront.net#1.tl2025cloudfront.shop#2.tl2025cloudfront.shop#3.tl2025cloudfront.shop#4.tl2025cloudfront.shop#5.tl2025cloudfront.shop#6.tl2025cloudfront.shop#7.tl2025cloudfront.shop#8.tl2025cloudfront.shop#9.tl2025cloudfront.shop#10.tl2025cloudfront.shop#11.tl2025cloudfront.shop#d3dlo5s8s4wy1t.cloudfront.net",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "TIM CLOUDFLARE ROTATE",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=ACL;PATCH;GET] / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: jhow.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]#GET /cdn-cgi/trace HTTP/1.1[lf]Host: timofertas.com[crlf][crlf][split][crlf]ACL /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]#OPTIONS /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#HEAD /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#PUT /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#POST /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket cloudflare",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
+        "id": 67076,
+        "mode": "SSH_PROXY",
+        "name": "TIM 3",
+        "proxy": {
+            "host": "timofertas.com#apf.maisvantagenstim.com.br#timofertas.com#api.digital.cname.vivo.com.br#api.digital.cname.vivo.com.br.cdn.cloudflare.net#api.digital.vivo.com.br#app.vivo.com.br#autenticaint.cname.vivo.com.br#104.17.72.206#172.64.147.42#104.16.95.93#104.17.70.206#172.64.144.109#104.18.39.235#104.16.237.16#141.193.213.10#104.18.7.80#104.17.75.206#104.18.1.109#162.159.128.53#104.26.12.205#104.18.17.51",
+            "port": 80
+        },
+        "server": {
+            "host":"jhow.shop#jhowflix.shop#51.222.150.105",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "UNIVERSAL VIVO TIM E CLARO",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split]ACL / HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#PATCH /chat HTTP/1.1\nHost: vivo.com.br\nConnection: Upgrade\nUpgrade: websocket\nUser-Agent: WhatsApp/2.16.259 Mozilla/5.0 (Linux; Unix 10.0; MHA-L29 Build/HUAWEIMHA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36\\n\\n#HTTP/1.1[crlf] 200 Connection established\\r\\nHost: GET /? HTTP/2.0\\r\\nHost: youtube.com\\r\\n200 Connection established\\r\\nProxy-Connection: close\\r\\nConnection-Keep-true\\r\\nControl-Cache: no-cache\\r\\nContent-Length: 9999999999999999999\\r\\nUser-Agent: Yes \\r\\nContent-Encoding: 88888888\\r\\nContent-Language: 00000000\\r\\nContent-Length: 55555555\\r\\nContent-Location:33333333[crlf][crlf]#[rotate=UPDATE;ACL;HEAD;PUT;GET;CONNECT;PATCH;DELETE] wss://[rotate=stage.timofertas.com;timofertas.com;apf.maisvantagenstim.com.br]/cdn-cgi/trace/  HTTP/1.1[lf]HTTP/1.1[crlf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.cname.vivo.com.br.cdn.cloudflare.net;api.digital.vivo.com.br;app.vivo.com.br;autenticaint.cname.vivo.com.br][crlf][crlf][split][crlf][crlf]CF-RAY- /SEUID HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]@JhowTech[crlf][crlf]#PATCH /cdn-cgi/trace HTTP/1.1[crlf]Host: [random=breadbox.app;c6bank.zendesk.com;cdn.navdmp.com;mobile.hom.c6bank.app][crlf][crlf][split][crlf][crlf]ACL /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Expect: 100-continue[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]#PATCH /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]#ACL /wil HTTP/1.1[lf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[lf][split][lf]#PUT /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]#DELETE // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY /wil HTTP/1.1[lf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[lf]upgrade: Websocket[lf][lf]#GET wss://firewallfalcon.familytlcomputingbr.573357.xyz/cdn-cgi/trace/ HTTP/1.1[crlf]Host: vivo.com.br[crlf][crlf][split][crlf][crlf]CF-RAY /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#GET wss://firewallfalcon.familytlcomputingbr.573357.xyz/cdn-cgi/trace/ HTTP/1.1[crlf]Host: vivo.com.br[crlf][crlf][split][crlf][crlf]CF-RAY /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#OPTIONS;DELETE;GET;PUT;POST;GET] /joker HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf][crlf]#GET /wil  HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]#PUT /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]X-Status-Id: tunnel[crlf][crlf]Upgrade: Websocket[crlf][crlf]#GET wss://firewallfalcon.familytlcomputingbr.573357.xyz/cdn-cgi/trace/ HTTP/1.1[crlf]Host: vivo.com.br[crlf][crlf][split][crlf][crlf]CF-RAY /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#GET wss://firewallfalcon.familytlcomputingbr.573357.xyz/cdn-cgi/trace/ HTTP/1.1[crlf]Host: vivo.com.br[crlf][crlf][split][crlf][crlf]CF-RAY /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#OPTIONS;DELETE;GET;PUT;POST;GET] /joker HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf][crlf]#GET /wil  HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]#PUT /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]X-Status-Id: tunnel[crlf][crlf]Upgrade: Websocket[crlf][crlf]#ACL /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#PATCH /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#HEAD /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#PUT /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#OPTIONS /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#\nCONNECT /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#DELETE /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#GET /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#HEAD / HTTP/1.1[crlf]Host: [rotate=meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#GET / HTTP/1.1[crlf]Host: [rotate=meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#PATCH / HTTP/1.1[crlf]Host: [rotate=meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#OPTIONS / HTTP/1.1[crlf]Host: tim.com.br[crlf] [crlf]GET /wil HTTP/1.1[lf]Host: [host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#GET /wil HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: [host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#[rotate=ACL;PATCH;GET] / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: jhow.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]#GET /cdn-cgi/trace HTTP/1.1[lf]Host: timofertas.com[crlf][crlf][split][crlf]ACL /wil HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]#OPTIONS /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#HEAD /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#PUT /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JhowTech[crlf][crlf]#POST /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=convencao.maisvantagenstim.com.br;apf.maisvantagenstim.com.br][crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: jhow.shop[crlf]Upgrade: Websocket[crlf]@JNETVPN[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "3 em 1",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
+        "id": 67077,
+        "mode": "SSH_PROXY",
+        "name": "TIM VIVO CLARO",
+        "proxy": {
+            "host": "51.222.150.105#188.114.99.229#188.114.98.229#104.26.12.205#104.26.13.205#172.67.74.152#104.16.239.166#104.17.64.225#104.18.33.113#104.26.5.32#172.67.74.152#theimfmethod.com#lexiruffell.com#store.vivo.com.br#104.16.53.111#104.18.6.80#104.18.7.80#auth.vivo.com.br#gedoc.vivo.com.br#162.159.135.63#162.159.136.63#auth.vivo.com.br#gedoc.vivo.com.br#162.159.135.63#162.159.136.63#104.16.239.166#104.17.64.225#104.18.33.113#104.26.5.32#172.67.74.152#162.159.140.166#104.18.40.238#104.16.53.111#104.18.6.80#81.45.58.170#172.64.150.8#162.159.136.63#162.159.135.63#104.18.37.248#172.64.147.18#auth.vivo.com.br#gedoc.vivo.com.br#162.159.135.63#162.159.136.63#bounce.mail.planos.tim.com.br#www.classificadostimtim.com.br#timofertas.com#apf.maisvantagenstim.com.br#timofertas.com#api.digital.cname.vivo.com.br#api.digital.cname.vivo.com.br.cdn.cloudflare.net#api.digital.vivo.com.br#app.vivo.com.br#autenticaint.cname.vivo.com.br#104.17.72.206#172.64.147.42#104.16.95.93#104.17.70.206#172.64.144.109#104.18.39.235#104.16.237.16#141.193.213.10#104.18.7.80#104.17.75.206#104.18.1.109#162.159.128.53#104.26.12.205#104.18.17.51",
+            "port": 80
+        },
+        "server": {
+            "host":"jhow.shop#51.222.150.105#d38me46xgxkxpj.cloudfront.net#d2vz2y8gkdyn4.cloudfront.net#firewallfalcon.familytlcomputingbr.573357.xyz#1.tl2025cloudfront.shop#2.tl2025cloudfront.shop#3.tl2025cloudfront.shop#4.tl2025cloudfront.shop#5.tl2025cloudfront.shop#6.tl2025cloudfront.shop#7.tl2025cloudfront.shop#8.tl2025cloudfront.shop#9.tl2025cloudfront.shop#10.tl2025cloudfront.shop#11.tl2025cloudfront.shop#d3dlo5s8s4wy1t.cloudfront.net",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "TIM CLOUDFRONT SALIDO E EXPIRADO",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[lf]Host: [rotate=oportunidades.tim.com.br;m.colaboradoresgalaxys22.tim.com.br][lf] [lf]GET /wil HTTP/1.1[lf]Host: d38me46xgxkxpj.cloudfront.net[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@JhowTech[lf][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/images.png",
+        "id": 67078,
+        "mode": "SSH_PROXY",
+        "name": "TIM 4",
+        "proxy": {
+            "host": "www.mercadolibre.com.co#help.cloudcovermusic.com#ecommerceupdate.com.br#kore.ai#checkout.timfibrainternet.com.br#aws.amazon.com#portais.ehtl.com.br#iret.media#www.vivo.com",
+            "port": 80
+        },
+        "server": {
+            "host":"d38me46xgxkxpj.cloudfront.net#jhow.shop#jhowflix.shop#51.222.150.105",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "SECURITY",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split]ACL / HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "SSH DIRECT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67079,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO",
+        "proxy": {
+            "host": null,
+            "Port": null
+        },
+        "server": {
+            "host":"51.222.150.105#jhow.shop#jhowflix.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "PATCH /chat HTTP/1.1\nHost: vivo.com.br\nConnection: Upgrade\nUpgrade: websocket\nUser-Agent: WhatsApp/2.16.259 Mozilla/5.0 (Linux; Unix 10.0; MHA-L29 Build/HUAWEIMHA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36\\n\\n#HTTP/1.1[crlf] 200 Connection established\\r\\nHost: GET /? HTTP/2.0\\r\\nHost: youtube.com\\r\\n200 Connection established\\r\\nProxy-Connection: close\\r\\nConnection-Keep-true\\r\\nControl-Cache: no-cache\\r\\nContent-Length: 9999999999999999999\\r\\nUser-Agent: Yes \\r\\nContent-Encoding: 88888888\\r\\nContent-Language: 00000000\\r\\nContent-Length: 55555555\\r\\nContent-Location:33333333[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "SSH DIRECT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67080,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO 2",
+        "proxy": {
+            "host": null,
+            "port": null
+        },
+        "server": {
+            "host":"51.222.150.105#jhow.shop#jhowflix.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "VIVO WEBSOCKET SECURITY 3",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: app_host[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67081,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO 3",
+        "proxy": {
+            "host": null,
+            "port": null
+        },
+        "server": {
+            "host":"51.222.150.105#jhow.shop#jhowflix.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67082,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO 4",
+        "proxy": {
+            "host": null,
+            "port": null
+        },
+        "server": {
+            "host":"51.222.150.105#jhow.shop#jhowflix.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "VIVO WEBSOCKET SECURITY 5",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[split]ACL / HTTP/1.1\\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\\nUpgrade: Websocket\\n\\n#PATCH / HTTP/1.1[crlf]Host: app_host[crlf]Host: cname.ftjl.app[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "SSH DIRECT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67083,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO 5",
+        "proxy": {
+            "host": null,
+            "port": null
+        },
+        "server": {
+            "host":"51.222.150.105#jhow.shop#jhowflix.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "VIVO WEBSOCKET SECURITY 06",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\n\\\\n\\\\n \\\\n#HTTP/ [crlf][crlf]|[crlf]#[split][rotate=MERGE;PROPPATCH;PATCH;ACL;ACL;PUT;SEARCH;UPDATE;PATCH;POST;HEAD;CONNECT] /chat HTTP/1.1\nHost: [rotate=vivo.com.br;sdi.vivo.com.br;global-4-lvs-colossus-10.opera-mini.net;p.adsymptotic.com]\nConnection: Keep-Alive, Upgrade\nUpgrade: websocket\nKeep-Alive: timeout=864000000000000000000\nUser-Agent: WhatsApp/2.16.259 Mozilla/5.0 (Linux; Unix 10.0; MHA-L29 Build/HUAWEIMHA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36\\nX-Status-Id: openvpn[crlf]\\nGET 127.0.0.1:80 HTTP/1.0[crlf][crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "SSH DIRECT",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67084,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO 6",
+        "proxy": {
+            "host": null,
+            "port": null
+        },
+        "server": {
+            "host":"51.222.150.105#jhow.shop#jhowflix.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "OPERADORA VIVO",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[rotate=UPDATE;ACL;HEAD;PUT;GET;CONNECT;PATCH;DELETE] wss://[rotate=stage.timofertas.com;timofertas.com;apf.maisvantagenstim.com.br]/cdn-cgi/trace/  HTTP/1.1[lf]HTTP/1.1[crlf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.cname.vivo.com.br.cdn.cloudflare.net;api.digital.vivo.com.br;app.vivo.com.br;autenticaint.cname.vivo.com.br][crlf][crlf][split][crlf][crlf]CF-RAY- /wil HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]@JhowTech[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "TESTEM",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/vivo.png",
+        "id": 67085,
+        "mode": "SSH_PROXY",
+        "name": "VIVO 7",
+        "proxy": {
+            "host": "188.114.99.229#188.114.98.229#104.26.12.205#104.26.13.205#172.67.74.152#104.16.239.166#104.17.64.225#104.18.33.113#104.26.5.32#172.67.74.152#theimfmethod.com#lexiruffell.com#store.vivo.com.br#104.16.53.111#104.18.6.80#104.18.7.80#auth.vivo.com.br#gedoc.vivo.com.br#162.159.135.63#162.159.136.63#stage.timofertas.com#vs.timrecompensas.com.br#apf.maisvantagenstim.com.br#timofertas.com",
+            "port": 80
+        },
+        "server": {
+            "host":"firewallfalcon.familytlcomputingbr.573357.xyz",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO UNIVERSAL",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "OPTIONS /wil HTTP/1.1[crlf]Host: www.claromusica.com[crlf][crlf][split]GET /wil HTTP/1.1[crlf]Host: d38me46xgxkxpj.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/escuro.png",
+        "id": 67086,
+        "mode": "SSH_PROXY",
+        "name": "CLARO ARGENTINA",
+        "proxy": {
+            "host": "www.claro.com.ar#m-miclaro.claro.com.py#asistencia.claro.com.ar#www.claro.com.py",
+            "port": 80
+        },
+        "server": {
+            "host":"www.claro.com.ar#m-miclaro.claro.com.py#asistencia.claro.com.ar#www.claro.com.py",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "http://51.222.150.105:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "WEBSOCKET FRONT",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.2[crlf]Host: [host][crlf][crlf] X / HTTP/1.2[crlf]Host: [host][crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf][crlf]GET /wil HTTP/1.1[crlf]Host: d38me46xgxkxpj.cloudfront.net[crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf]forward[auth]: :[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "Websocket Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Jhow1510/Config-app/refs/heads/main/personal.png",
+        "id": 67087,
+        "mode": "SSH_PROXY",
+        "name": "PERSONAL ARGENTINA",
+        "proxy": {
+            "host": "recargasuat.personal.com.ar#recargas.personal.com.ar#recarga.personal.com.ar#recargas.personal.com.ar",
+            "port": 80
+        },
+        "server": {
+            "host": "recargasuat.personal.com.ar#recargas.personal.com.ar#recarga.personal.com.ar#recargas.personal.com.ar",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "https://6229c4d45d.dtunnel.shop:2053",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    }
+]
