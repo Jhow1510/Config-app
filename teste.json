@@ -18,7 +18,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "[rotate=GET;POST;PUT;DELETE;OPTIONS;CONNECT] /wil HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: d38me46xgxkxpj.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
+            "payload": "[rotate=GET;POST;PUT;DELETE;OPTIONS;CONNECT] /wil HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: ds9jxrylgjkgi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -37,7 +37,7 @@
             "port": 80
         },
         "server": {
-            "host":"d38me46xgxkxpj.cloudfront.net",
+            "host":"ds9jxrylgjkgi.cloudfront.net",
             "port": 80
         },
         "sorter": 1,
@@ -69,7 +69,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET /wil HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: d38me46xgxkxpj.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "payload": "GET /wil HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /wil HTTP/1.1[lf]Host: ds9jxrylgjkgi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -88,7 +88,7 @@
             "port": 80
         },
         "server": {
-            "host":"d38me46xgxkxpj.cloudfront.net",
+            "host":"ds9jxrylgjkgi.cloudfront.net",
             "port": 80
         },
         "sorter": 1,
@@ -139,7 +139,7 @@
             "port": 80
         },
         "server": {
-            "host":"d38me46xgxkxpj.cloudfront.net#d2vz2y8gkdyn4.cloudfront.net#1.tl2025cloudfront.shop#2.tl2025cloudfront.shop#3.tl2025cloudfront.shop#4.tl2025cloudfront.shop#5.tl2025cloudfront.shop#6.tl2025cloudfront.shop#7.tl2025cloudfront.shop#8.tl2025cloudfront.shop#9.tl2025cloudfront.shop#10.tl2025cloudfront.shop#11.tl2025cloudfront.shop#d3dlo5s8s4wy1t.cloudfront.net",
+            "host":"ds9jxrylgjkgi.cloudfront.net#d2vz2y8gkdyn4.cloudfront.net#1.tl2025cloudfront.shop#2.tl2025cloudfront.shop#3.tl2025cloudfront.shop#4.tl2025cloudfront.shop#5.tl2025cloudfront.shop#6.tl2025cloudfront.shop#7.tl2025cloudfront.shop#8.tl2025cloudfront.shop#9.tl2025cloudfront.shop#10.tl2025cloudfront.shop#11.tl2025cloudfront.shop#d3dlo5s8s4wy1t.cloudfront.net",
             "port": 80
         },
         "sorter": 1,
@@ -241,7 +241,7 @@
             "port": 80
         },
         "server": {
-            "host":"jhow.shop#51.222.150.105#d38me46xgxkxpj.cloudfront.net#d2vz2y8gkdyn4.cloudfront.net#firewallfalcon.familytlcomputingbr.573357.xyz#1.tl2025cloudfront.shop#2.tl2025cloudfront.shop#3.tl2025cloudfront.shop#4.tl2025cloudfront.shop#5.tl2025cloudfront.shop#6.tl2025cloudfront.shop#7.tl2025cloudfront.shop#8.tl2025cloudfront.shop#9.tl2025cloudfront.shop#10.tl2025cloudfront.shop#11.tl2025cloudfront.shop#d3dlo5s8s4wy1t.cloudfront.net",
+            "host":"jhow.shop#51.222.150.105#ds9jxrylgjkgi.cloudfront.net#d2vz2y8gkdyn4.cloudfront.net#firewallfalcon.familytlcomputingbr.573357.xyz#1.tl2025cloudfront.shop#2.tl2025cloudfront.shop#3.tl2025cloudfront.shop#4.tl2025cloudfront.shop#5.tl2025cloudfront.shop#6.tl2025cloudfront.shop#7.tl2025cloudfront.shop#8.tl2025cloudfront.shop#9.tl2025cloudfront.shop#10.tl2025cloudfront.shop#11.tl2025cloudfront.shop#d3dlo5s8s4wy1t.cloudfront.net",
             "port": 80
         },
         "sorter": 1,
@@ -273,7 +273,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET / HTTP/1.1[lf]Host: [rotate=oportunidades.tim.com.br;m.colaboradoresgalaxys22.tim.com.br][lf] [lf]GET /wil HTTP/1.1[lf]Host: d38me46xgxkxpj.cloudfront.net[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@JhowTech[lf][lf]",
+            "payload": "GET / HTTP/1.1[lf]Host: [rotate=oportunidades.tim.com.br;m.colaboradoresgalaxys22.tim.com.br][lf] [lf]GET /wil HTTP/1.1[lf]Host: ds9jxrylgjkgi.cloudfront.net[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@JhowTech[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -292,7 +292,7 @@
             "port": 80
         },
         "server": {
-            "host":"d38me46xgxkxpj.cloudfront.net#jhow.shop#jhowflix.shop#51.222.150.105",
+            "host":"ds9jxrylgjkgi.cloudfront.net#jhow.shop#jhowflix.shop#51.222.150.105",
             "port": 80
         },
         "sorter": 1,
@@ -681,7 +681,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "OPTIONS /wil HTTP/1.1[crlf]Host: www.claromusica.com[crlf][crlf][split]GET /wil HTTP/1.1[crlf]Host: d38me46xgxkxpj.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
+            "payload": "OPTIONS /wil HTTP/1.1[crlf]Host: www.claromusica.com[crlf][crlf][split]GET /wil HTTP/1.1[crlf]Host: ds9jxrylgjkgi.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -732,7 +732,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET / HTTP/1.2[crlf]Host: [host][crlf][crlf] X / HTTP/1.2[crlf]Host: [host][crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf][crlf]GET /wil HTTP/1.1[crlf]Host: d38me46xgxkxpj.cloudfront.net[crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf]forward[auth]: :[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "payload": "GET / HTTP/1.2[crlf]Host: [host][crlf][crlf] X / HTTP/1.2[crlf]Host: [host][crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf][crlf]GET /wil HTTP/1.1[crlf]Host: ds9jxrylgjkgi.cloudfront.net[crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf]forward[auth]: :[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "sni": ""
         },
         "config_v2ray": null,
